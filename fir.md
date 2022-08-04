@@ -1,6 +1,8 @@
+---
 layout: page
 title: "FIRST PAGE"
 permalink: /firtest/
+---
 
 # 第一个测试分页面
 
