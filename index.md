@@ -9,7 +9,7 @@ For some days, I have been thinking about build a personal page. However, I have
 ### For my notes, click here:
 
 1. [basic Linux operation](https://wyywwi.github.io/notes/linux/)
-2. Vim learning notes
+2. [Vim learning notes](https://wyywwi.github.io/notes/vim/)
 3. Git & Github
 4. GCC
 5. Apache2 in Linux
@@ -23,12 +23,23 @@ Maybe these notes are too simple, but they are at least useful to me. I hope the
 
 ~~Edit later~~
 
+[Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+
+[A Vim Course in Chinese](https://zhuanlan.zhihu.com/p/68111471)
+
+[The drawing ed used in this site](https://imgtu.com/)
+
+[Git Learning](https://www.jianshu.com/p/e57a4a2cf077)
+
 </br>
 
 ### Posts
 
 - Nonsense:
   1. [first test post](https://wyywwi.github.io/post/fir/)
+
+- test:
+  1. [first test](https://wyywwi.github.io/firtest/)
 
 </br>
 
