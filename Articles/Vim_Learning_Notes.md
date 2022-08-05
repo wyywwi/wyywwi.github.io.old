@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Vim Learning"
+title: "Vim"
 permalink: /notes/vim/
 ---
 
-![Vim](https://pica.zhimg.com/v2-53579b05d8e5a22e4700170a6132db04_1440w.jpg?source=172ae18b)
+<a href="vim"><img src="https://pica.zhimg.com/v2-53579b05d8e5a22e4700170a6132db04_1440w.jpg?source=172ae18b" alt="Vim Logo" border="0" style="zoom:50%" /></a>
+
 
 ## Vim
 
