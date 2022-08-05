@@ -2,7 +2,7 @@
 
 </br>
 
-For some days, I have been thinking about build a personal page. However, I have nothing to put onto it and cloud servers are too expensive to afford to me. So I'm glad to find this free webpageservice here to put something here and share them to you.
+For some days, I have been thinking about build a personal page. However, I have nothing to put on it and to me the cloud servers are too expensive to afford. So I'm glad to find this free webpage service to put something here and share them to you.
 
 </br>
 
