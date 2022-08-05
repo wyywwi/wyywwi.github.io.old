@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "linux"
+permalink: /notes/linux/
+---
 
 # Basic_Linux_in_kali
 
@@ -29,9 +33,9 @@
 
    l 和 ls 的区别：
 
-   ![image-20220519201947660](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220519201947660.png)
+   [![vmLkE6.png](https://s1.ax1x.com/2022/08/05/vmLkE6.png)](https://imgtu.com/i/vmLkE6)
 
-   ![image-20220519202010428](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220519202010428.png)
+   [![vmLCuR.png](https://s1.ax1x.com/2022/08/05/vmLCuR.png)](https://imgtu.com/i/vmLCuR)
 
 3. cd -- change directory  **更改工作目录**
 
@@ -55,7 +59,7 @@
 
    
 
-   ![image-20220516165136131](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220516165136131.png)
+   [![vmqOEV.png](https://s1.ax1x.com/2022/08/05/vmqOEV.png)](https://imgtu.com/i/vmqOEV)
 
    **Like this image shows, a file has Access time (a-time), Modify time (m-time) and Change time (c-time). When you touch a file that has been created, you change it's a-,m- and c-time.**
 
@@ -87,11 +91,11 @@
 
    
 
-   ![image-20220516170638027](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220516170638027.png)
+   [![vmqXNT.png](https://s1.ax1x.com/2022/08/05/vmqXNT.png)](https://imgtu.com/i/vmqXNT)
 
 2. **file    辨识文件类型**
 
-   ![image-20220519201037453](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220519201037453.png)
+   [![vmqxCF.png](https://s1.ax1x.com/2022/08/05/vmqxCF.png)](https://imgtu.com/i/vmqxCF)
 
 #### 4. 删除文件/文件夹(rm)
 
@@ -101,9 +105,9 @@
 
    对于文件夹，采用举例说明：
 
-   ![image-20220519201430230](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220519201430230.png)
+   [![vmLpv9.png](https://s1.ax1x.com/2022/08/05/vmLpv9.png)](https://imgtu.com/i/vmLpv9)
 
-   ![image-20220519201615233](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220519201615233.png)
+   [![vmLSgJ.png](https://s1.ax1x.com/2022/08/05/vmLSgJ.png)](https://imgtu.com/i/vmLSgJ)
 
    **只有递归操作，才能删除文件夹**
 
@@ -119,7 +123,7 @@
    mv dir1 dir2                #可以正常操作；mv没有递归（-r）选项
    ```
 
-   ![image-20220519202905733](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220519202905733.png)
+   [![vmLPD1.png](https://s1.ax1x.com/2022/08/05/vmLPD1.png)](https://imgtu.com/i/vmLPD1)
 
 2. **cp copy 复制文件**
 
@@ -153,7 +157,7 @@
 
    ​                适用于查找系统文件夹/系统命令    不适用于查找用户文件/文件夹
 
-   ![image-20220520202159640](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520202159640.png)
+   [![vmLAUK.png](https://s1.ax1x.com/2022/08/05/vmLAUK.png)](https://imgtu.com/i/vmLAUK)
 
 2. whereis 
 
@@ -161,7 +165,7 @@
 
    只能用于查找二进制文件（-b）、源代码文件（-s）和man手册页（-m）。
 
-   ![image-20220520202557183](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520202557183.png)
+   [![vmLE4O.png](https://s1.ax1x.com/2022/08/05/vmLE4O.png)](https://imgtu.com/i/vmLE4O)
 
    （查询用户文件kali：未找到   查询service：找到二进制可执行文件和man说明文件）
 
@@ -179,11 +183,11 @@
    -i      --ignore-case  #忽略大小写
    ```
 
-   ![image-20220520203110328](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520203110328.png)
+   [![vmLe8e.png](https://s1.ax1x.com/2022/08/05/vmLe8e.png)](https://imgtu.com/i/vmLe8e)
 
    ​                                                                                               （passwd为数众多，只截取一部分)
 
-   ![image-20220520203333707](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520203333707.png)
+   [![vmLnvd.png](https://s1.ax1x.com/2022/08/05/vmLnvd.png)](https://imgtu.com/i/vmLnvd)
 
    
 
@@ -218,19 +222,19 @@ find  path  -option  [-exec command {} \;]
 | 块设备       | b        |
 | 套接字       | s        |
 
-![image-20220520205831069](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520205831069.png)
+[![vmLKKA.png](https://s1.ax1x.com/2022/08/05/vmLKKA.png)](https://imgtu.com/i/vmLKKA)
 
 - size：单位主要有 b 块（512字节）， c 字节， w 字（2字节)， k 千字节， M 兆字节， G 吉字节
 
-  ![image-20220520213742739](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520213742739.png)
+  [![vmLMDI.png](https://s1.ax1x.com/2022/08/05/vmLMDI.png)](https://imgtu.com/i/vmLMDI)
 
 - empty：空文件
 
-  ![image-20220520213835477](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520213835477.png)
+  [![vmL1VP.png](https://s1.ax1x.com/2022/08/05/vmL1VP.png)](https://imgtu.com/i/vmL1VP)
 
 - path：所在路径
 
-  ![image-20220520214010260](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220520214010260.png)
+  [![vmLQbt.png](https://s1.ax1x.com/2022/08/05/vmLQbt.png)](https://imgtu.com/i/vmLQbt)
 
 - time/min：略
 
@@ -409,7 +413,7 @@ command 以root的身份执行command
 
 -l  显示使用者所拥有的权限
 
-![image-20220521110439098](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220521110439098.png)
+[![vmLY8g.png](https://s1.ax1x.com/2022/08/05/vmLY8g.png)](https://imgtu.com/i/vmLY8g)
 
 -k 下次sudo时强制询问密码
 
@@ -417,7 +421,7 @@ command 以root的身份执行command
 
 -i (--login)  切换使用账号，与-u配合食用，如果没有添加-u user则默认为切换成root
 
-![image-20220521105309231](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220521105309231.png)
+[![vmLJPS.png](https://s1.ax1x.com/2022/08/05/vmLJPS.png)](https://imgtu.com/i/vmLJPS)
 
 
 
@@ -449,7 +453,7 @@ su user        切换到user身份，但是不改变工作目录
 
 su - user    相当于重新登陆地切换到user身份
 
-![image-20220521110143117](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220521110143117.png)
+[![vmL858.png](https://s1.ax1x.com/2022/08/05/vmL858.png)](https://imgtu.com/i/vmL858)
 
 ​                                                                          （su user 与 su - user 对比，前者不改变工作目录，后者改变）
 
@@ -475,7 +479,7 @@ su - user    相当于重新登陆地切换到user身份
 
   -u      启用被停止使用的账户
 
-  ![image-20220521193507703](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220521193507703.png)
+  [![vmLNvj.png](https://s1.ax1x.com/2022/08/05/vmLNvj.png)](https://imgtu.com/i/vmLNvj)
 
   （-S并不会直接展示密码，只会展示账户信息；有无密码（P/NP），账户设立时间等等）
 
