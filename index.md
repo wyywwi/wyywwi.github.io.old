@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to wyywwi's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/wyywwi/wyywwi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+</br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For some days, I have been thinking about build a personal page. However, I have nothing to put onto it and cloud servers are too expensive to afford to me. So I'm glad to find this free webpageservice here to put something here and share them to you.
 
-### Markdown
+</br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### For my notes, click here:
 
-```markdown
-Syntax highlighted code block
+1. basic Linux operation
+2. Vim learning notes
+3. Git & Github
+4. GCC
+5. Apache2 in Linux
+6. Basic Mysql
 
-# Header 1
-## Header 2
-### Header 3
+Maybe these notes are too simple, but they are at least useful to me. I hope they are useful to you too.
 
-- Bulleted
-- List
+</br>
 
-1. Numbered
-2. List
+### Some useful external links
 
-**Bold** and _Italic_ and `Code` text
+~~Edit later~~
 
-[Link](url) and ![Image](src)
-```
+</br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Posts
 
-### Jekyll Themes
+- Nonsense:
+  1. [first test post](https://wyywwi.github.io/post/fir/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wyywwi/wyywwi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</br>
+</br>
+</br>
 
-### Support or Contact
+**That's all~**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*wyywwi*
+
+*22/08/05*
