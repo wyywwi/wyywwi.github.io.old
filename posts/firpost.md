@@ -1,7 +1,7 @@
 ---
-layout:post
-title:test post
-permalink:/post/fir/
+layout: post
+title: "test post"
+permalink: /post/fir/
 ---
 
 ## **春江花月夜**
