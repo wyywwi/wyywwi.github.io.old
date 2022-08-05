@@ -72,9 +72,9 @@ Vim的四种模式：Normal-mode, Insert-mode, Command-mode & Visual-mode
 | O      | 在光标所在行之前另起一行插入 |
 | cw     | 替换从光标开始的这个单词     |
 
-![image-20220522154453286](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220522154453286.png)
+[![vmLaKs.png](https://s1.ax1x.com/2022/08/05/vmLaKs.png)](https://imgtu.com/i/vmLaKs)
 
-![image-20220522154514401](C:\Users\20600\AppData\Roaming\Typora\typora-user-images\image-20220522154514401.png)
+[![vmLdrn.png](https://s1.ax1x.com/2022/08/05/vmLdrn.png)](https://imgtu.com/i/vmLdrn)
 
 （合按cw后，光标之后一直到空格之前，“our”三个字母被清空）
 
@@ -105,3 +105,11 @@ Vim的四种模式：Normal-mode, Insert-mode, Command-mode & Visual-mode
 | :saveas path/to/file       | 另存为path/to/路径下的文件file |
 | :bn                        | 打开下一个文件                 |
 | :bp                        | 打开上一个文件                 |
+
+### 3. Vim Pro
+
+作为一名学生，上面这些操作已经足够我应付一般的编辑工作。至于写代码这样的复杂工作，我更乐意使用VSCode。（笑
+
+所以，如果你看了觉得还不错，还想继续学下去的话，我将再次推荐[Learn-Vim-Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)————这确实是一个好教程。
+
+以上。
