@@ -8,7 +8,7 @@ For some days, I have been thinking about build a personal page. However, I have
 
 ### For my notes, click here:
 
-1. basic Linux operation
+1. [basic Linux operation](https://wyywwi.github.io/notes/linux/)
 2. Vim learning notes
 3. Git & Github
 4. GCC
@@ -31,7 +31,9 @@ Maybe these notes are too simple, but they are at least useful to me. I hope the
   1. [first test post](https://wyywwi.github.io/post/fir/)
 
 </br>
+
 </br>
+
 </br>
 
 **That's all~**
