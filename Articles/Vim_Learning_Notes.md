@@ -4,7 +4,7 @@ title: "Vim Learning"
 permalink: /notes/vim/
 ---
 
-
+![Vim](https://pica.zhimg.com/v2-53579b05d8e5a22e4700170a6132db04_1440w.jpg?source=172ae18b)
 
 ## Vim
 
@@ -112,4 +112,6 @@ Vim的四种模式：Normal-mode, Insert-mode, Command-mode & Visual-mode
 
 所以，如果你看了觉得还不错，还想继续学下去的话，我将再次推荐[Learn-Vim-Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)————这确实是一个好教程。
 
-以上。
+如果你的英语不好，我也推荐这一篇[知乎文章]（https://zhuanlan.zhihu.com/p/68111471): 行文内容清晰，作为操作速查也十分合格。
+
+以上~
