@@ -2,7 +2,7 @@
 
 </br>
 
-For some days, I have been thinking about build a personal page. However, I have nothing to put on it and to me the cloud servers are too expensive to afford. So I'm glad to find this free webpage service to put something here and share them to you.
+For some days, I have been thinking about building a personal page. However, I have nothing to put on it, and for me, the cloud servers are too expensive to afford. So I'm glad to find this free webpage service to put something here and share them with you.
 
 </br>
 
@@ -15,7 +15,7 @@ For some days, I have been thinking about build a personal page. However, I have
 5. Apache2 in Linux
 6. Basic Mysql
 
-Maybe these notes are too simple, but they are at least useful to me. I hope they are useful to you too.
+Maybe these notes are too simple, but they are useful to me at least. I hope they are useful to you as well.
 
 </br>
 
