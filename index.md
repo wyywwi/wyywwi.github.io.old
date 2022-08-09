@@ -41,6 +41,12 @@ Maybe these notes are too simple, but they are useful to me at least. I hope the
 - test:
   1. [first test](https://wyywwi.github.io/firtest/)
 
+
+### Others
+
+- [For freshman of HUST](https://wyywwi.github.io/notes/school/)
+- [An old file](www.example.com)
+
 </br>
 
 </br>
