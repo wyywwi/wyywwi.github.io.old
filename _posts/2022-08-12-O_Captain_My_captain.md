@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小游戏"
+title: "O Captain My Captain"
 permalink: /post/forfreshman/
 ---
 
@@ -17,4 +17,4 @@ permalink: /post/forfreshman/
 
 欢迎加入网安大家庭！
 
-[![vYGCGV.md.png](https://s1.ax1x.com/2022/08/12/vYGCGV.md.png)](https://imgtu.com/i/vYGCGV)
+[![vYJfAA.md.png](https://s1.ax1x.com/2022/08/12/vYJfAA.md.png)](https://imgtu.com/i/vYJfAA)
