@@ -3,6 +3,7 @@ layout: post
 title: "O Captain My Captain"
 permalink: /post/forfreshman/
 tag: "for freshman"
+author: wyywwi
 ---
 
 ## 入学小游戏
