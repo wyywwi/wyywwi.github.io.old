@@ -37,13 +37,13 @@ author: wyywwi
 >
 > While follow eyes the steady keel, the vessel grim and daring;
 >
-> ​             But O heart! heart! heart!
+> &nbsp;&nbsp;&nbsp;But O heart! heart! heart!
 >
-> ​              O the bleeding drops of red,
+> &nbsp;&nbsp;&nbsp;&nbsp;O the bleeding drops of red,
 >
-> ​                Where on the deck my Captain lies,
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where on the deck my Captain lies,
 >
-> ​                 Fallen cold and dead.
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fallen cold and dead.
 >
 > O Captain! my Captain! rise up and hear the bells;
 >
@@ -53,13 +53,13 @@ author: wyywwi
 >
 > For you they call, the swaying mass, their eager faces turning;
 >
-> ​             Here Captain! dear father!
+> &nbsp;&nbsp;&nbsp;Here Captain! dear father!
 >
-> ​              This arm beneath your head!
+> &nbsp;&nbsp;&nbsp;&nbsp;This arm beneath your head!
 >
-> ​                It is some dream that on the deck,
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is some dream that on the deck,
 >
-> ​                 You’ve fallen cold and dead.
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You’ve fallen cold and dead.
 >
 > My Captain does not answer, his lips are pale and still,
 >
@@ -69,10 +69,10 @@ author: wyywwi
 >
 > From fearful trip the victor ship comes in with object won;
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;Exult O shores, and ring O bells!
+> &nbsp;&nbsp;&nbsp;Exult O shores, and ring O bells!
 >
-> ​              But I with mournful tread,
+> &nbsp;&nbsp;&nbsp;&nbsp;But I with mournful tread,
 >
-> ​                Walk the deck my Captain lies,
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Walk the deck my Captain lies,
 >
-> ​                 Fallen cold and dead.
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fallen cold and dead.
